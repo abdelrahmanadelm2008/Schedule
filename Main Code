@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Fall 2025 Weekly Schedule</title>
+    <style>
+        body { font-family: Arial, sans-serif; }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid #999;
+            padding: 10px;
+            vertical-align: top;
+            text-align: left;
+        }
+        th {
+            background-color: #cce0f5;
+            text-align: center;
+        }
+        .time-col {
+            background-color: #e6f2ff;
+            text-align: center;
+            font-weight: bold;
+        }
+        .phys213 { background-color: #FFCCCC; }
+        .bisc160 { background-color: #CCFFFF; }
+        .chem115 { background-color: #FFEBCC; }
+        .hon101 { background-color: #E0CCFF; }
+        .bisc161 { background-color: #D5E8D4; }
+        .chem105 { background-color: #FFF2CC; }
+        .chem107 { background-color: #F4CCCC; }
+        .math261 { background-color: #D9EAD3; }
+        .phys223 { background-color: #CCE5FF; }
+        .online { background-color: #FCE5CD; }
+    </style>
+</head>
+<body>
+    <h2>Fall 2025 Weekly Schedule</h2>
+    <p><strong>Note:</strong> Courses have varying end dates. Please check below each course block for the term duration.</p>
+    <table>
+        <tr>
+            <th>Time</th>
+            <th>Monday</th>
+            <th>Tuesday</th>
+            <th>Wednesday</th>
+            <th>Thursday</th>
+            <th>Friday</th>
+        </tr>
+        <tr>
+            <td class="time-col">08:00 AM - 08:50 AM</td>
+            <td class="phys213">Phys 213<br>Instructor: Jennifer Ann Meyer<br>Room: CSTI 122<br><em>08/25–12/12</em></td>
+            <td></td>
+            <td class="phys213">Phys 213<br>Instructor: Jennifer Ann Meyer<br>Room: CSTI 122<br><em>08/25–12/12</em></td>
+            <td></td>
+            <td class="phys213">Phys 213<br>Instructor: Jennifer Ann Meyer<br>Room: CSTI 122<br><em>08/25–12/12</em></td>
+        </tr>
+        <tr>
+            <td class="time-col">09:00 AM - 09:50 AM</td>
+            <td class="bisc160">Bisc 160<br>Instructors: Jones, Noonan, Sebren, Symula<br>Room: Music Building 123<br><em>08/25–12/12</em></td>
+            <td></td>
+            <td class="bisc160">Bisc 160<br>Instructors: Jones, Noonan, Sebren, Symula<br>Room: Music Building 123<br><em>08/25–12/12</em></td>
+            <td></td>
+            <td class="bisc160">Bisc 160<br>Instructors: Jones, Noonan, Sebren, Symula<br>Room: Music Building 123<br><em>08/25–12/12</em></td>
+        </tr>
+        <tr>
+            <td class="time-col">10:00 AM - 10:45 AM</td>
+            <td></td>
+            <td class="chem115">Chem 115 Lab<br>Instructor: TBD<br>Room: CSTI 118<br><em>08/26–12/09</em></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="time-col">11:00 AM - 11:50 AM</td>
+            <td class="chem105 hon101">Chem 105<br>Instructor: Jason E. Ritchie<br>Room: CSTI 328<br><em>08/25–12/12</em><br><br>Hon 101<br>Instructor: Daniel Stout<br>Room: Honors 025<br><em>08/25–12/10</em></td>
+            <td></td>
+            <td class="chem105 hon101">Chem 105<br>Instructor: Jason E. Ritchie<br>Room: CSTI 328<br><em>08/25–12/12</em><br><br>Hon 101<br>Instructor: Daniel Stout<br>Room: Honors 025<br><em>08/25–12/10</em></td>
+            <td></td>
+            <td class="chem105">Chem 105<br>Instructor: Jason E. Ritchie<br>Room: CSTI 328<br><em>08/25–12/12</em></td>
+        </tr>
+        <tr>
+            <td class="time-col">11:00 AM - 01:50 PM</td>
+            <td class="bisc161">Bisc 161 Lab<br>Instructor: Nicole A. Lewis<br>Room: CSTI 335<br><em>08/25–12/08</em></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="time-col">01:00 PM - 02:15 PM</td>
+            <td></td>
+            <td class="math261">Math 261<br>Instructor: Haidong Wu<br>Room: Hume 331<br><em>08/26–12/11</em></td>
+            <td></td>
+            <td class="math261">Math 261<br>Instructor: Haidong Wu<br>Room: Hume 331<br><em>08/26–12/11</em></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="time-col">02:00 PM - 02:50 PM</td>
+            <td></td>
+            <td></td>
+            <td class="chem107">Chem 107<br>Instructor: Jason E. Ritchie<br>Room: Coulter 200<br><em>08/27–12/10</em></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="time-col">03:00 PM - 04:50 PM</td>
+            <td class="phys223">Phys 223 Lab<br>Instructor: Jennifer Ann Meyer<br>Room: CSTI 204<br><em>08/25–12/08</em></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="time-col">05:30 PM - 07:00 PM</td>
+            <td></td>
+            <td></td>
+            <td class="phys213">Phys 223 Lab<br>Instructor: Jennifer Ann Meyer<br>Room: CSTI 122<br><em>08/27–12/10</em></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+    <h3>Online Courses</h3>
+    <ul>
+        <li class="online"><strong>ENG 225 - Online 1:</strong> Instructor: Timothy Darren Earley<br>Oxford Campus | Fully Online | <em>08/25–12/12</em></li>
+        <li class="online"><strong>FS 101 - Online 1:</strong> Instructor: Colin Michael Brown<br>Oxford Campus | Fully Online | <em>Full Term</em></li>
+    </ul>
+</body>
+</html>
